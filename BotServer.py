@@ -179,4 +179,4 @@ async def on_raw_reaction_add(payload):
     cargo = discord.utils.get(guild.roles, name="Mudae-chan")
     await member.add_roles(cargo)
 
-client.run('ODk2NzU4NDcwMzMyNzg0NzIw.YWLxaA.loJW8rFWsvG5HLGbPv-tazbEtvc')
+client.run('Token')
